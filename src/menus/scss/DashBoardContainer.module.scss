@@ -1,0 +1,80 @@
+.wrap {
+  background-color: #f6f8fa;
+  height: 100vh;
+  top: 0;
+  right: 200px;
+  width: 100vw;
+  margin-top: 80px;
+}
+
+.group1Wrap,
+.group2Wrap {
+  display: flex;
+  height: 50%;
+}
+
+.categoryOutcome {
+  border: 1px solid #d0d1d3;
+  width: 70%;
+  height: auto;
+  margin: 20px;
+  background-color: white;
+}
+
+.categoryOutcome .categoryOutcomeText {
+  font-size: 15px;
+  text-align: center;
+}
+
+.inAndOutcome {
+  border: 1px solid #d0d1d3;
+  width: 30%;
+  height: 50%;
+  margin: 20px;
+  height: auto;
+  background-color: white;
+}
+
+.inAndOutcome .inAndOutcomeText {
+  font-size: 15px;
+  text-align: center;
+}
+
+.spendPercentage {
+  border: 1px solid #d0d1d3;
+  width: 30%;
+  height: auto;
+  margin: 20px;
+  background-color: white;
+}
+
+.spendPercentageText {
+  font-size: 15px;
+  text-align: center;
+}
+
+.thisWeek {
+  border: 1px solid #d0d1d3;
+  width: 30%;
+  height: auto;
+  margin: 20px;
+  background-color: white;
+}
+
+.thisWeekText {
+  font-size: 15px;
+  text-align: center;
+}
+
+.noOutcome {
+  border: 1px solid #d0d1d3;
+  width: 30%;
+  height: auto;
+  margin: 20px;
+  background-color: white;
+}
+
+.noOutcomeText {
+  font-size: 15px;
+  text-align: center;
+}

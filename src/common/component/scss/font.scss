@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Roboto";
+  font-display: fallback;
+  font-style: normal;
+
+  src: url("../../../static/fonts/Roboto-Regular.ttf") format("truetype"),
+    url("../../../static/fonts/Roboto-Regular.eot?iefix")
+      format("embedded-opentype");
+}

@@ -1,0 +1,22 @@
+.wrap {
+  width: 200px;
+  background-color: #081f35;
+  margin-top: 80px;
+}
+
+.btnWrap {
+  display: grid;
+}
+
+button {
+  background: none;
+  border: none;
+  margin: 10px;
+}
+
+.link1,
+.link2 {
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+}

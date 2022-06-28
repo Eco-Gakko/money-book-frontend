@@ -1,0 +1,47 @@
+.wrap {
+  position: fixed;
+  width: 100%;
+  height: 80px;
+  background-color: #fff;
+  top: 0;
+}
+
+.btnWrap {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.signInBtn,
+.signUpBtn {
+  height: 30px;
+}
+
+.signInBtn {
+  margin: 10px 5px 10px 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.signInLink,
+.signUpLink {
+  font-family: "Roboto";
+  font-size: 15px;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.signInLink {
+  color: #f72363;
+}
+
+.signUpLink {
+  color: white;
+}
+
+.signUpBtn {
+  margin: 10px 10px 10px 5px;
+  background-color: #f72363;
+  border: none;
+  border-radius: 10px;
+}
